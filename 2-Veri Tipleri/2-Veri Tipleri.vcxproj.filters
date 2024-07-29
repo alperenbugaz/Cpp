@@ -15,18 +15,8 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="1-Variables.cpp">
+    <ClCompile Include="2-Veri Tipleri.cpp">
       <Filter>Kaynak Dosyalar</Filter>
     </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="resource.h">
-      <Filter>Üst Bilgi Dosyaları</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ResourceCompile Include="cpptraining.rc">
-      <Filter>Kaynak Dosyaları</Filter>
-    </ResourceCompile>
   </ItemGroup>
 </Project>

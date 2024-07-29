@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{caa04865-d018-4e38-ad6f-50829e404a2f}</ProjectGuid>
-    <RootNamespace>My2DataTypes</RootNamespace>
+    <ProjectGuid>{8d56fd7e-b3bc-44ff-b5ed-6f32bd6f458e}</ProjectGuid>
+    <RootNamespace>My2VeriTipleri</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\ConsoleApplication1\2-Data_types.cpp" />
+    <ClCompile Include="2-Veri Tipleri.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

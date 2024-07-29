@@ -21,10 +21,9 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{2090c0c5-d352-4aba-ba2e-328b952b7d1d}</ProjectGuid>
-    <RootNamespace>DeğişkenveRAM</RootNamespace>
+    <ProjectGuid>{40e4b19b-6dd9-4b38-8d18-080a79b8741a}</ProjectGuid>
+    <RootNamespace>My4DeğişkenveRAM</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>4-Değişken ve RAM</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -128,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Değişken ve RAM.cpp" />
+    <ClCompile Include="4-Değişken ve RAM.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

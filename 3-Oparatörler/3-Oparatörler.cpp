@@ -7,7 +7,7 @@ int main()
 {
     std::cout << "Hello World!\n";
 
-    
+
     // +     toplama  a+b     a ile b'nin toplamı
     int a = 10;
     int b = 20;
@@ -61,16 +61,16 @@ int main()
     std::cout << k << '\n'; //200
     // /=    bölme    a/=b    a'nın değerini b'ye böler
     int l = 20;
-    l/= 10;
+    l /= 10;
     std::cout << l << '\n'; //2
 
-    
+
     // %=    mod      a%=b    a'nın değerini b'ye böler ve kalanı atar
     int m = 20;
     m %= 12;
     std::cout << m << '\n'; //8
     // ==    eşit     a==b    a ve b eşitse true döner
-    int a1= 10;
+    int a1 = 10;
     int a2 = 10;
     bool n = a1 == a2;
     std::cout << n << '\n'; //1 (true)
@@ -82,7 +82,7 @@ int main()
     std::cout << o << '\n'; //0 (false)
 
     // >     büyük    a>b     a büyükse true döner
-    
+
     bool p = b2 > b1;
     std::cout << p << '\n'; //1 (true)
 
@@ -92,4 +92,3 @@ int main()
 
 
 }
-

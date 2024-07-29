@@ -14,7 +14,7 @@ int main()
 	result2 = num3 + num4; //7
 	std::cout << result;
 	// num1 and Num1 are different variables (C++ is case-sensitive)
-		
+
 	//incorrect variable names
 	/*
 		int 1number;     // Cannot start with a digit
