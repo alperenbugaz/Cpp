@@ -22,8 +22,6 @@ public: //her yerden erişilebilir
     std::string parabirimi = "TL";
     std::string Tutar = "0.0";
     
-    void sorgula() {
-
         std::cout << "Veriler bankaya gönderiliyor. Parabirimi:" + this->parabirimi + "Tutar:" + this->Tutar << '\n'; 
     }
 
