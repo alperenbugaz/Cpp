@@ -27,6 +27,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11-Bellek Yönetimi", "11-B
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "12-Ön İşlemciler", "12-Ön İşlemciler\12-Ön İşlemciler.vcxproj", "{7D02AD11-D373-4092-9C85-5F8F22949983}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "13-Kütüphane", "13-Kütüphane\13-Kütüphane.vcxproj", "{89522EFC-9B88-482E-B3C7-CE4C76AE8336}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -131,6 +133,14 @@ Global
 		{7D02AD11-D373-4092-9C85-5F8F22949983}.Release|x64.Build.0 = Release|x64
 		{7D02AD11-D373-4092-9C85-5F8F22949983}.Release|x86.ActiveCfg = Release|Win32
 		{7D02AD11-D373-4092-9C85-5F8F22949983}.Release|x86.Build.0 = Release|Win32
+		{89522EFC-9B88-482E-B3C7-CE4C76AE8336}.Debug|x64.ActiveCfg = Debug|x64
+		{89522EFC-9B88-482E-B3C7-CE4C76AE8336}.Debug|x64.Build.0 = Debug|x64
+		{89522EFC-9B88-482E-B3C7-CE4C76AE8336}.Debug|x86.ActiveCfg = Debug|Win32
+		{89522EFC-9B88-482E-B3C7-CE4C76AE8336}.Debug|x86.Build.0 = Debug|Win32
+		{89522EFC-9B88-482E-B3C7-CE4C76AE8336}.Release|x64.ActiveCfg = Release|x64
+		{89522EFC-9B88-482E-B3C7-CE4C76AE8336}.Release|x64.Build.0 = Release|x64
+		{89522EFC-9B88-482E-B3C7-CE4C76AE8336}.Release|x86.ActiveCfg = Release|Win32
+		{89522EFC-9B88-482E-B3C7-CE4C76AE8336}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
