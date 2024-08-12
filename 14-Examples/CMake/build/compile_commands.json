@@ -1,0 +1,8 @@
+[
+{
+  "directory": "E:/cpp/cpp/14-Examples/CMake/build",
+  "command": "E:\\cpp\\cpp\\14-Examples\\compiler\\mingw64\\bin\\g++.exe   -g -std=gnu++11 -o CMakeFiles\\outfile.dir\\main.cpp.obj -c E:\\cpp\\cpp\\14-Examples\\CMake\\main.cpp",
+  "file": "E:/cpp/cpp/14-Examples/CMake/main.cpp",
+  "output": "CMakeFiles/outfile.dir/main.cpp.obj"
+}
+]

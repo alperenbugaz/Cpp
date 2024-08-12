@@ -1,0 +1,139 @@
+{
+	"inputs" : 
+	[
+		{
+			"path" : "CMakelists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/3.30.2/CMakeSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"path" : "E:/cpp/cpp/14-Examples/CMake/cmake-3.30.2-windows-x86_64/share/cmake-3.30/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isCMake" : true,
+			"path" : "E:/cpp/cpp/14-Examples/CMake/cmake-3.30.2-windows-x86_64/share/cmake-3.30/Modules/Platform/Windows-Initialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/3.30.2/CMakeCCompiler.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/3.30.2/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"path" : "E:/cpp/cpp/14-Examples/CMake/cmake-3.30.2-windows-x86_64/share/cmake-3.30/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"path" : "E:/cpp/cpp/14-Examples/CMake/cmake-3.30.2-windows-x86_64/share/cmake-3.30/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"path" : "E:/cpp/cpp/14-Examples/CMake/cmake-3.30.2-windows-x86_64/share/cmake-3.30/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"path" : "E:/cpp/cpp/14-Examples/CMake/cmake-3.30.2-windows-x86_64/share/cmake-3.30/Modules/Platform/Windows.cmake"
+		},
+		{
+			"isCMake" : true,
+			"path" : "E:/cpp/cpp/14-Examples/CMake/cmake-3.30.2-windows-x86_64/share/cmake-3.30/Modules/Platform/WindowsPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"path" : "E:/cpp/cpp/14-Examples/CMake/cmake-3.30.2-windows-x86_64/share/cmake-3.30/Modules/CMakeCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"path" : "E:/cpp/cpp/14-Examples/CMake/cmake-3.30.2-windows-x86_64/share/cmake-3.30/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"path" : "E:/cpp/cpp/14-Examples/CMake/cmake-3.30.2-windows-x86_64/share/cmake-3.30/Modules/Compiler/GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"path" : "E:/cpp/cpp/14-Examples/CMake/cmake-3.30.2-windows-x86_64/share/cmake-3.30/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"path" : "E:/cpp/cpp/14-Examples/CMake/cmake-3.30.2-windows-x86_64/share/cmake-3.30/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"path" : "E:/cpp/cpp/14-Examples/CMake/cmake-3.30.2-windows-x86_64/share/cmake-3.30/Modules/Platform/Windows-GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"path" : "E:/cpp/cpp/14-Examples/CMake/cmake-3.30.2-windows-x86_64/share/cmake-3.30/Modules/Platform/Windows-GNU.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/3.30.2/CMakeRCCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"path" : "E:/cpp/cpp/14-Examples/CMake/cmake-3.30.2-windows-x86_64/share/cmake-3.30/Modules/CMakeRCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"path" : "E:/cpp/cpp/14-Examples/CMake/cmake-3.30.2-windows-x86_64/share/cmake-3.30/Modules/Platform/Windows-windres.cmake"
+		},
+		{
+			"isCMake" : true,
+			"path" : "E:/cpp/cpp/14-Examples/CMake/cmake-3.30.2-windows-x86_64/share/cmake-3.30/Modules/Platform/Windows-GNU-C-ABI.cmake"
+		},
+		{
+			"isCMake" : true,
+			"path" : "E:/cpp/cpp/14-Examples/CMake/cmake-3.30.2-windows-x86_64/share/cmake-3.30/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"path" : "E:/cpp/cpp/14-Examples/CMake/cmake-3.30.2-windows-x86_64/share/cmake-3.30/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"path" : "E:/cpp/cpp/14-Examples/CMake/cmake-3.30.2-windows-x86_64/share/cmake-3.30/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"path" : "E:/cpp/cpp/14-Examples/CMake/cmake-3.30.2-windows-x86_64/share/cmake-3.30/Modules/Compiler/GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"path" : "E:/cpp/cpp/14-Examples/CMake/cmake-3.30.2-windows-x86_64/share/cmake-3.30/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"path" : "E:/cpp/cpp/14-Examples/CMake/cmake-3.30.2-windows-x86_64/share/cmake-3.30/Modules/Platform/Windows-GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"path" : "E:/cpp/cpp/14-Examples/CMake/cmake-3.30.2-windows-x86_64/share/cmake-3.30/Modules/Platform/Windows-GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"path" : "E:/cpp/cpp/14-Examples/CMake/cmake-3.30.2-windows-x86_64/share/cmake-3.30/Modules/Platform/Windows-GNU-CXX-ABI.cmake"
+		},
+		{
+			"isCMake" : true,
+			"path" : "E:/cpp/cpp/14-Examples/CMake/cmake-3.30.2-windows-x86_64/share/cmake-3.30/Modules/CMakeCommonLanguageInclude.cmake"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "E:/cpp/cpp/14-Examples/CMake/build",
+		"source" : "E:/cpp/cpp/14-Examples/CMake"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 1
+	}
+}

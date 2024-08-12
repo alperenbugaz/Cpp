@@ -1,0 +1,17 @@
+cmake_minimum_required(VERSION 3.30.2)  #Minimum ihtiyaç duyulan cmake sürümü
+
+project(ProjectName VERSION 1.0)  #Proje adı
+
+
+set (CMAKE_CXX_STANDARD 11)  #C++11 standardı kullanılacak
+set (CMAKE_CXX_STANDARD_REQUIRED ON)  #C++11 standardı kullanılması zorunlu
+set (CMAKE_GENERATOR "MinGW Makefiles")  #MinGW Makefiles kullanılacak
+# | cmake -S . -B build -G "MinGW Makefiles" | komutu ile de #minGW Makefiles kullanarak build etme
+add_executable(outfile main.cpp)
+
+# "CMake/build" dizinde otomatik Makefile oluşurulur.
+# "cd build" komutu ile build dizinine geçilir ve "mingw32-make" komutu ile build edilir.
+
+#add_library(${PROJECT_NAME} SHARED ${PROJECT_SOURCE_DIR}/main.cpp)  #kütüphane eklemek için
+#target_include_directories(${PROJECT_NAME} PUBLIC ${PROJECT_SOURCE_DIR}/include)  #include yolu
+#target_link_libraries(${PROJECT_NAME} PUBLIC ${PROJECT_SOURCE_DIR}/lib)  #projeye kütüphane eklemek için
