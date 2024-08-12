@@ -1,4 +1,5 @@
-// GCC (g++) derleyicisi ile derleme Örneği
+
+# GCC (g++) derleyicisi ile derleme
 
 1- "https://sourceforge.net/projects/mingw-w64/files/mingw-w64/" linki üzerinden donanım mimarinize (x86_64 veya i686) uygun bir seçeneği, API Uyumluluğu Seçimi (win32 veya posix)'e göre 
 birini ve Hata Ayıklama ve İstisna Yönetimi Seçimi (sjlj, seh ve dwarf) birini seçtikten sonra indirme işlemini başlatın. Başlangıç için "x86_64-posix-seh" tercih edilebilir.
