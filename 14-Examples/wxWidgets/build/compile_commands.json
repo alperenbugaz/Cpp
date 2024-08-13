@@ -1,0 +1,8 @@
+[
+{
+  "directory": "E:/cpp/cpp/14-Examples/wxWidgets/build",
+  "command": "E:\\cpp\\cpp\\14-Examples\\compiler\\mingw64\\bin\\g++.exe -DUNICODE -D_UNICODE @CMakeFiles/screen.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\screen.dir\\main.cpp.obj -c E:\\cpp\\cpp\\14-Examples\\wxWidgets\\main.cpp",
+  "file": "E:/cpp/cpp/14-Examples/wxWidgets/main.cpp",
+  "output": "CMakeFiles/screen.dir/main.cpp.obj"
+}
+]

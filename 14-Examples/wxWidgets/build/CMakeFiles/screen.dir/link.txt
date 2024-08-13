@@ -1,0 +1,3 @@
+E:\cpp\cpp\14-Examples\CMake\cmake-3.30.2-windows-x86_64\bin\cmake.exe -E rm -f CMakeFiles\screen.dir/objects.a
+E:\cpp\cpp\14-Examples\compiler\mingw64\bin\ar.exe qc CMakeFiles\screen.dir/objects.a @CMakeFiles\screen.dir\objects1.rsp
+E:\cpp\cpp\14-Examples\compiler\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\screen.dir/objects.a -Wl,--no-whole-archive -o screen.exe -Wl,--out-implib,libscreen.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\screen.dir\linkLibs.rsp

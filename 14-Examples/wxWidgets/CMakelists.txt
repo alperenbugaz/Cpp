@@ -1,0 +1,24 @@
+cmake_minimum_required(VERSION 3.23) 
+
+set(CMAKE_CXX_STANDARD 11)
+set(CMAKE_CXX_STANDARD_REQUIRED True)
+project(screen VERSION 1.0)
+
+set(wxWidgets_ROOT_DIR E:/cpp/cpp/14-Examples/wxWidgets/wxWidgets-3.2.5/) #wxWidgets kütüphanesinin bulunduğu dizini belirtir
+
+find_package(wxWidgets REQUIRED gl core base) #wxWidgets CMake dosyaını bulmayı hedefler
+
+#wxWidgets paketinin sistemde kurulu olup olmadığını kontrol eder
+#eğer cmd üzerinde "cmake --help-module-list" komutunu çalıştırırsanız yüklü olan paketlerin listesini görebilirsiniz
+
+add_executable(screen main.cpp) #helloworld.cpp dosyasını derleyip screen adında bir uygulama oluşturur #helloworld ekranı için -> add_executable(screen HelloWorld.cpp)
+
+
+if(wxWidgets_FOUND)
+    include(${wxWidgets_USE_FILE})
+    target_include_directories(screen PUBLIC ${wxWidgets_INCLUDE_DIRS})
+    target_compile_definitions(screen PUBLIC ${wxWidgets_DEFINITIONS})
+    target_link_libraries(screen  ${wxWidgets_LIBRARIES})
+else()
+    message("wxWidgets not found")
+endif()
